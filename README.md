@@ -1,3 +1,3 @@
 # gallery-project
 
-Parallax gallery True Detecrive
+Parallax gallery True Detective
