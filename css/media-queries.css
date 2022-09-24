@@ -1,0 +1,6 @@
+@media (max-width:750px) {
+    .description.logo {
+        position: absolute;
+        left: 4vh;
+    }
+ }
